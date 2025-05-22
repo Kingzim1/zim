@@ -1,0 +1,1 @@
+{"version":3,"file":"Setting-D_n_h6M_.js","sources":["../../src/pages/Setting.tsx"],"sourcesContent":["import React from 'react'\n\nconst Setting = () => {\n  return (\n    <div>Setting</div>\n  )\n}\n\nexport default Setting"],"names":["Setting","jsx"],"mappings":"wCAEA,MAAMA,EAAU,IAEXC,EAAA,IAAA,OAAI,SAAO,UAAA"}

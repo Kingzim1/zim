@@ -1,0 +1,1 @@
+{"version":3,"file":"Verification-CITZgMRN.js","sources":["../../src/pages/Verification.tsx"],"sourcesContent":["import React from 'react'\n\nconst Verification = () => {\n  return (\n    <div>Verification</div>\n  )\n}\n\nexport default Verification"],"names":["Verification","jsx"],"mappings":"wCAEA,MAAMA,EAAe,IAEhBC,EAAA,IAAA,OAAI,SAAY,eAAA"}
